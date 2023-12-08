@@ -1,0 +1,12 @@
+# ninja log v5
+3	759	7068908599719827	CMakeFiles/program.dir/main.cpp.obj	23bfba38be10cb75
+835	934	7068908601419031	program.exe	a8bc6836852e91ef
+10	764	7068908599781444	CMakeFiles/program.dir/Ember.cpp.obj	fa0ebbdb94d8a25c
+7	119	7065718196151748	CMakeFiles/program.dir/memtrace.cpp.obj	c73bd1cca729f1b4
+7	760	7068908599732964	CMakeFiles/program.dir/Ceg.cpp.obj	ab44b2da850613bd
+17	835	7068908600477289	CMakeFiles/program.dir/Telefonkonyv.cpp.obj	b1c84d118c6b6fb1
+13	728	7068908599419937	CMakeFiles/program.dir/Nevjegy.cpp.obj	1b74363fda42bb2
+21	1714	7065724955276465	CMakeFiles/program.dir/String.cpp.obj	b2c6f94f532a7c1b
+2	636	7068910317972453	CMakeFiles/program.dir/Ceg.cpp.obj	ab44b2da850613bd
+7	638	7068910317992585	CMakeFiles/program.dir/Ember.cpp.obj	fa0ebbdb94d8a25c
+638	730	7068910318877644	program.exe	7a7e36d6f0991144
